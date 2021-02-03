@@ -10,8 +10,7 @@ CPU : AMD Ryzen 5 3600 3.6 GHz 6-Core Processor
       Memory : HyperX LPX 24 GB (3x 8 GB) DDR4-3200 CL16 Memory
      Storage : Toshiba  1tb HDD
      Storage : ADATA XPG SX8200 500 GB M.2-2280 NVME Solid State Drive
-  Video Card : XFX Fatboy RX 590 converted to a RedDevil Powercolor RX 590 8 GB Video Card
-  
+  Video Card : MSI MECH RX 5500 XT 4GB  
 ## OpenCore Version?
 0.6.6
 
